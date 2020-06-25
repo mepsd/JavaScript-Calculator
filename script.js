@@ -1,4 +1,4 @@
-<script type="text/javascript">
+
 	$(document).ready(function() {
   
   // A database of the symbols and functions of every operand. Order of operators determines precedence.
@@ -687,4 +687,3 @@ function factorialize(num) {
         */
     }
 }
-</script>
